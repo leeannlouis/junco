@@ -1,3 +1,10 @@
+# Takes the junco bone microstructure .xlsx data file available on Dryad
+# (DOI will be provided upon manuscript acceptance)
+# and outputs spreadsheets of AICc values, effect sizes,
+# and figures into user-provided folders. 
+# These match the tables and figures in the article (DOI will be
+# provided upon manuscript acceptance).
+
 #### SETUP #####
 
 # Clear workspace
