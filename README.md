@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5183824.svg)](https://doi.org/10.5281/zenodo.5183824)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5184261.svg)](https://doi.org/10.5281/zenodo.5184261)
 
 # junco
 files for analysis and visualization of data on junco bone microstructure
