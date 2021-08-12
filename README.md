@@ -31,6 +31,8 @@ Written 2021-06-22 by Leeann Louis
 * Mass: Weight at collection in grams
 * Side: Right or left wing / leg from which the bone was taken
 * Bone: Femur or humerus
+* CtDOI: DOI number for cortical computed tomography data available at [MorphoSource](https://www.morphosource.org/)
+* TbDOI: DOI number for trabecular computed tomography data available at [MorphoSource](https://www.morphosource.org/)
 * Length: Bone length in mm, taken during the scout-view
 * TbBV: Trabecular bone volume (mm^3): Volume of mineralized trabecular bone tissue within the total volume analyzed
 * BVTV: Trabecular bone volume fraction (%): Ratio of trabecular bone divided by the total volume of tissue analyzed
